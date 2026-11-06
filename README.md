@@ -1,7 +1,3 @@
 # Project 2411
 
-A small web interface.
-
-## Build
-
-Install dependencies with `npm install`, then run `npm run build`.
+A lightweight static entry point maintained through automated deployment.
